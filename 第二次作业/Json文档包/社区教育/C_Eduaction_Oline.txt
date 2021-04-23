@@ -1,0 +1,23 @@
+"C_Eduaction_Oline_Exam":{
+		
+		"Exam":{
+			"Exam_id":"",
+			"Exam_name":"",
+			"Lession":"",
+			"Add_Time":"",
+			"Single_Topic":"",
+			"More_Topic":"",
+			"Teaher_ID":"",
+			"User_ID":"",
+		},
+		"Grade":{
+			"Grade_id":"",
+			"Grade_Single":"",
+			"Grade_More":"",
+			"Grade_Total":"",
+			"Grade_Subdate":"",
+			"Teaher_ID":"",
+			"User_ID":"",
+		},
+		
+}

@@ -1,0 +1,12 @@
+"C_Eduaction_User":{
+		
+		"User":{
+			"User_id":"",
+			"User_name":"",
+			"User_Sex":"",
+			"User_Password":"",
+			"Culture_Level":"",
+			"Profession":"",
+		},
+		
+}

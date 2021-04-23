@@ -1,0 +1,14 @@
+"C_Eduaction_Community":{
+		
+		"Community":{
+			"Community_ID":"",
+			"Community_Name":"",
+			"Area_Name":"",
+			"Address_Name":"",
+			"Address_Number":"",
+			"Chief_Name":"",
+			"Chief_Tel":"",
+			"ID":"",
+		},
+
+}
