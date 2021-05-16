@@ -1,0 +1,18 @@
+"Alert":{
+		"User_id":"",
+		"User_name":"",
+		"ID":"",
+		"User_Mobile":"",
+		"User_Address":"",
+		"Community_Address":"",
+		"Community_ID":"",
+	  	"Chief_ID":"",
+		"Chief_Name":"",
+		"Chief_Mobile":"",
+		"Status":"",
+		"Password":"",
+		"Add_Time":"",
+		"Score":"",
+		"Total_Task_Num:""
+	}
+}

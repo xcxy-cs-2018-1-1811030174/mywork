@@ -1,0 +1,20 @@
+"Deliver":{
+		"Deliver_id":"",
+		"Deliver_name":"",
+		"ID":"",
+		"Mobile":"",
+		"Status":"",
+		"Password":"",
+		"Add_Time":"",
+		"Score":"",
+		"Total_Task_Num:""
+	}
+	"Deliver_Task":{
+		"Order_id":"",
+		"Deliver_id":"",
+		"ID":"",
+		"Send_Cost":"",
+		"Status":"",
+		"Add_Time":"",
+	}
+}

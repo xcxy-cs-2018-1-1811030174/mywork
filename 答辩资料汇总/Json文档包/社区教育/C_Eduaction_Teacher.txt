@@ -1,0 +1,12 @@
+"C_Eduaction_Teacher":{
+		
+		"Teacher":{
+			"Teacher_id":"",
+			"Teacher_name":"",
+			"Teacher_Sex":"",
+			"Teacher_Password":"",
+			"Teacher_Culture_Level":"",
+			"Teacher_Profession":"",
+		},
+		
+}

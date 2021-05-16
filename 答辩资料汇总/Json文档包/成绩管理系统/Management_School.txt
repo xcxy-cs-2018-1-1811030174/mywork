@@ -1,0 +1,51 @@
+"Management_School":{
+		"School_ID":"",
+		"School_name":"",
+		"Student_ID":"",
+		"Student_Name":"",
+		"Course_ID":"",
+		"Course_Name":"",
+		"Techer_ID":"",
+	  	"Techer_Name":"",
+		
+	}
+	"Student":{
+		"Student_ID":"",
+		"Student_Name":"",
+		"Student_Sex":"",
+		"Student_Age":"",
+		"Orign_Student":"",
+		"Achievd_Study_Socre":"",
+		"Class_ID":"",
+	}
+	"Teacher":{
+		"Teacher_ID":"",
+		"Teacher_Name":"",
+		"Teacher_Sex":"",
+		"Teacher_Age":"",
+		"Teacher_Profess":"",
+		"Teacher_Number":"",
+	}
+	"Course":{
+		"Course_ID":"",
+		"Course_Name":"",
+		"Teacher_Name":"",
+		"Teacher_ID":"",
+		"Start_Time":"",
+		"End_Time":"",
+		"Score":"",
+	}
+	"Class":{
+		"Course_ID":"",
+		"Course_Name":"",
+		"Teacher_Name":"",
+		"Teacher_ID":"",
+		"Student_Name":"",
+		"Student_ID":"",
+		"Class_Name":"",
+		"Class_ID":"",
+		
+	}
+}
+
+}
